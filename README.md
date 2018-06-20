@@ -3,7 +3,7 @@
 A React Native module that can process local images.
 Support both Android and iOS.
 
-## Function (Endlish)
+## Function (English)
 - Get Image's RGBA data(array)
 - Binary Image
 
